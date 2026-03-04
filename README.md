@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, ich bin Soufian! 👋
 
-<!--
-**SoufianElMakhfi/SoufianElMakhfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Mit KI ist man Developer auf Steroiden – es ist krass, welche Entwicklung wir gerade erleben."
 
-Here are some ideas to get you started:
+Wenn mich Tools nerven (zu teuer, zu viel Werbung), baue ich sie ab sofort einfach selbst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lieblingszitat:** *"It works."* – Credits: Peter Steinberger (OpenClaw)
+
+---
+
+## 🛠 Aktuelle Projekte
+
+### 📱 Mobile App
+Ein modernes Mobile-Projekt mit Fokus auf Performance und Echtzeit-Kommunikation.
+* **Tech Stack:** Flutter, Supabase (Backend), PostgreSQL.
+* **Features:** Firebase Push-Notifications & Token-Management.
+* *Status: Bleibt gespannt!*
+
+### 🛍️ Shopify Custom Theme
+Erfolgreiche Auslieferung eines individuellen E-Commerce-Shops.
+* **Highlights:** Deep-Dive in **Liquid** für ein komplett maßgeschneidertes Theme-Design.
+
+### 🗂️ CardMe (Karteikarten App)
+Aus Frust über überladene Apps entstanden. Perfekt, um die Flut an neuen KI-Begriffen zu bändigen.
+* **Konzept:** 100% kostenlos, keine Cloud, kein Tracking.
+* **Storage:** Lokal auf deinem Rechner.
+* **Language:** Python 🐍
+* **Gönn Dir Brudi oder Schwester:** [CardMe auf GitHub](https://github.com/SoufianElMakhfi/CardMe)
+
+---
+
+## 🧠 Meine Philosophie zum Lernen
+KI ist ein mächtiger Beschleuniger, aber man lernt fast *zu viel* auf einmal. Um Begriffe wirklich zu verinnerlichen, nutze ich meine eigene Karteikarten-App. Wer schnell baut, muss auch nachhaltig verstehen.
+
+## 💻 Tech Stack & Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: [Dein Profil](https://www.linkedin.com/in/soufian-el-makhfi-ab235a283/)
+* 🌍 Portfolio: Wird neu gebaut, mein altes gefällt mir nicht mehr  
