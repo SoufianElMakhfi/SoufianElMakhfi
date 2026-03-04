@@ -45,5 +45,5 @@ KI ist ein mächtiger Beschleuniger, aber man lernt fast *zu viel* auf einmal. U
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: [Dein Profil](https://www.linkedin.com/in/soufian-el-makhfi-ab235a283/)
+* 💼 LinkedIn: [Klick mich und vernetz dich](https://www.linkedin.com/in/soufian-el-makhfi-ab235a283/)
 * 🌍 Portfolio: Wird neu gebaut, mein altes gefällt mir nicht mehr  
