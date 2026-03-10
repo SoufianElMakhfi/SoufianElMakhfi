@@ -25,7 +25,7 @@ Aus Frust über überladene Apps entstanden. Perfekt, um die Flut an neuen KI-Be
 * **Konzept:** 100% kostenlos, keine Cloud, kein Tracking.
 * **Storage:** Lokal auf deinem Rechner.
 * **Language:** Python 🐍
-* **Gönn Dir Brudi oder Schwester:** [CardMe auf GitHub](https://github.com/SoufianElMakhfi/CardMe)
+* **Gönn Dir:** [CardMe auf GitHub](https://github.com/SoufianElMakhfi/CardMe)
 
 ---
 
