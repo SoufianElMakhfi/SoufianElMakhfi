@@ -1,38 +1,50 @@
-# Hi, ich bin Soufian! 👋
-
-> "Mit KI ist man Developer auf Steroiden – es ist krass, welche Entwicklung wir gerade erleben."
+Hi, ich bin Soufian! 👋
+"Mit KI ist man Developer auf Steroiden – es ist krass, welche Entwicklung wir gerade erleben."
 
 Wenn mich Tools nerven (zu teuer, zu viel Werbung), baue ich sie ab sofort einfach selbst.
 
-**Lieblingszitat:** *"It works."* – Credits: Peter Steinberger (OpenClaw)
+Lieblingszitat: "It works." – Credits: Peter Steinberger (OpenClaw)
 
----
+🛠 Aktuelle Projekte
+🖼️ ThumbMe (KI-Thumbnail Generator)
+Entstanden aus dem Bedarf nach schnellen, hochwertigen YouTube-Thumbnails ohne teure Abos.
 
-## 🛠 Aktuelle Projekte
+Tech Stack: React, TypeScript, Supabase, Gemini AI, Vite, Tailwind CSS.
 
-### 📱 Mobile App
+Features: * KI-Generierung via Google Gemini 2.5 Flash mit 8 Style-Presets.
+
+Drag & Drop Upload inkl. smarter Canvas-Komprimierung.
+
+Automatisierte Bibliothek & volle DSGVO-Konformität (Daten-Löschfunktion).
+
+Faires Rate-Limiting für nachhaltige Nutzung.
+
+📱 Mobile App
 Ein modernes Mobile-Projekt mit Fokus auf Performance und Echtzeit-Kommunikation.
-* **Tech Stack:** Flutter, Supabase (Backend), PostgreSQL.
-* **Features:** Firebase Push-Notifications & Token-Management.
-* *Status: Bleibt gespannt!*
 
-### 🛍️ Shopify Custom Theme
+Tech Stack: Flutter, Supabase (Backend), PostgreSQL.
+
+Features: Firebase Push-Notifications & Token-Management.
+
+Status: Bleibt gespannt!
+
+🛍️ Shopify Custom Theme
 Erfolgreiche Auslieferung eines individuellen E-Commerce-Shops.
-* **Highlights:** Deep-Dive in **Liquid** für ein komplett maßgeschneidertes Theme-Design.
 
-### 🗂️ CardMe (Karteikarten App)
+Highlights: Deep-Dive in Liquid für ein komplett maßgeschneidertes Theme-Design.
+
+🗂️ CardMe (Karteikarten App)
 Aus Frust über überladene Apps entstanden. Perfekt, um die Flut an neuen KI-Begriffen zu bändigen.
-* **Konzept:** 100% kostenlos, keine Cloud, kein Tracking.
-* **Storage:** Lokal auf deinem Rechner.
-* **Language:** Python 🐍
-* **Gönn Dir:** [CardMe auf GitHub](https://github.com/SoufianElMakhfi/CardMe)
 
----
+Konzept: 100% kostenlos, keine Cloud, kein Tracking.
 
-## 🧠 Meine Philosophie zum Lernen
-KI ist ein mächtiger Beschleuniger, aber man lernt fast *zu viel* auf einmal. Um Begriffe wirklich zu verinnerlichen, nutze ich meine eigene Karteikarten-App. Wer schnell baut, muss auch nachhaltig verstehen.
+Language: Python 🐍
 
-## 💻 Tech Stack & Tools
+Gönn Dir: CardMe auf GitHub
+
+🧠 Meine Philosophie zum Lernen
+KI ist ein mächtiger Beschleuniger, aber man lernt fast zu viel auf einmal. Um Begriffe wirklich zu verinnerlichen, nutze ich meine eigene Karteikarten-App. Wer schnell baut, muss auch nachhaltig verstehen.
+
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
