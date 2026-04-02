@@ -48,11 +48,6 @@ KI ist ein mächtiger Beschleuniger, aber man lernt fast *zu viel* auf einmal. U
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-**Lieblingszitat:** *"It works."* – Credits: Peter Steinberger (OpenClaw)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
@@ -64,3 +59,7 @@ KI ist ein mächtiger Beschleuniger, aber man lernt fast *zu viel* auf einmal. U
 
 * 💼 **LinkedIn:** [Klick mich und vernetz dich](https://www.linkedin.com/in/soufian-el-makhfi-ab235a283/)
 * 🌍 **Portfolio:** Wird neu gebaut, mein altes gefällt mir nicht mehr
+
+---
+
+**Lieblingszitat:** *"It works."* – Credits: Peter Steinberger (OpenClaw)
