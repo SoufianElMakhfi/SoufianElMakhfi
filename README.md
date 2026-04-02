@@ -1,6 +1,6 @@
 # Hi, ich bin Soufian! 👋
 
-> "Mit KI ist man Developer auf Steroiden – es ist krass, welche Entwicklung wir gerade erleben."
+ "Mit KI ist man Developer auf Steroiden – es ist krass, welche Entwicklung wir gerade erleben."
 
 ---
 
