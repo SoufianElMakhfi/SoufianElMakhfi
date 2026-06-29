@@ -60,9 +60,9 @@ Fokussiertes Lernen ohne Ablenkung. Entstanden aus dem Bedürfnis nach einer sch
 
 ---
 
-## 🧠 Meine Philosophie zum Lernen
+## 🧠 Meine Philosophie zum stetigen Lernen
 
-KI ist ein mächtiger Beschleuniger, aber man lernt fast *zu viel* auf einmal. Wer schnell baut, muss auch nachhaltig verstehen. Mein Weg startete bei simplen HTML-Tags (mein "My First Steps" Projekt) und führte mich zum Fullstack-Development. Um neue Konzepte heute wirklich zu verinnerlichen, nutze ich meine eigene Karteikarten-App für "Deep Work".
+KI ist ein mächtiger Beschleuniger, aber man lernt fast *zu viel* auf einmal. Wer schnell baut, muss auch nachhaltig verstehen. Mein Weg startete bei simplen HTML-Tags (mein "My First Steps" Projekt) und führte mich zum Fullstack-Development. Um neue Konzepte heute wirklich zu verinnerlichen, nutze ich meine eigene Karteikarten-App und eigene Dokumentationen.
 
 ---
 
