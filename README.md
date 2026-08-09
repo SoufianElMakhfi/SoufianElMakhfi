@@ -1,17 +1,17 @@
 # Soufian El Makhfi | Software Engineer & Fullstack Developer 👋
 
-> *"Combining clean system architecture with purposeful AI integration turns complex workflows into high-performance, scalable digital products."*
+> *"Combining clean system architecture with purposeful AI integration turns complex enterprise workflows into high-performance, scalable digital products."*
 
 ---
 
 ## 🚀 About Me & Core Competencies
 
-As a Fullstack & Mobile Developer, I engineer high-performance web and mobile applications with a strong focus on **clean architecture**, **intuitive UX**, and **strategic AI integration**. My goal is to deliver robust, enterprise-ready software solutions built for speed, resilience, and real-world impact.
+As a Fullstack & Mobile Engineer, I architect performant web, mobile, and enterprise applications with a strong focus on **clean software design**, **robust security**, **intuitive UX**, and **strategic AI integration**. My mission is to solve real-world operational challenges through scalable infrastructure and modern, responsive software.
 
-- 📱 **Mobile Engineering:** Cross-platform mobile applications powered by Flutter & Dart (real-time sync, geolocation, offline-first capabilities).
-- 💻 **Frontend & Web Systems:** High-performance web applications using Astro 5, React 19, TypeScript & Tailwind CSS v4.
-- ⚙️ **Backend & Cloud Services:** Serverless environments, real-time databases, and auth infrastructure with Supabase & Firebase.
-- 🤖 **AI & Automation:** Strategic integration of cutting-edge LLMs (e.g., Google Gemini API) to automate complex user workflows and visual processing.
+- 📱 **Mobile Engineering:** Cross-platform mobile applications built with Flutter & Dart (real-time data sync, live geolocation, offline-first architectures).
+- 💻 **Frontend & Web Systems:** High-performance web applications using Astro 5, React 19, TypeScript & Tailwind CSS.
+- ⚙️ **Backend & Cloud Infrastructure:** Serverless architectures, containerized microservices (Node.js, Python, Docker), real-time databases, and secure auth systems (Supabase, PostgreSQL, Firebase).
+- 🤖 **AI & Automation:** Practical implementation of state-of-the-art LLMs (e.g., Google Gemini API) to automate complex visual processing, document synthesis, and data workflows.
 
 ---
 
@@ -25,20 +25,42 @@ A cross-platform mobile application designed to digitize and streamline the end-
 * **Architectural Highlights:**
   * Role-based access control system (Clients, Helpers, Verified Contractors).
   * Low-latency real-time chat with live geolocation tracking and dynamic ETA calculation.
-  * Comprehensive administrative management dashboard for moderation and workflow oversight.
-* **Business Impact:** Significantly reduces intake overhead while maintaining transparent, real-time communication across all user roles.
+  * Comprehensive administrative management dashboard for content moderation and operational oversight.
+* **Business Impact:** Significantly reduces claim intake time while maintaining transparent, real-time communication across all user roles.
 
 ---
 
-### ⚡ PopState – One-Viewport Interactive Lead Funnel & Pricing Engine
-A ultra-fast, zero-scroll interactive lead-funnel web application engineered with an isolated client-side pricing calculator.
+### ⚡ POPSTATE – One-Viewport Lead Funnel & Client-Side Pricing Engine
+An ultra-fast, zero-scroll interactive web platform engineered with an isolated client-side pricing calculator engine.
 
 * **Tech Stack:** Astro 5, React 19 (Islands Architecture), TypeScript, Tailwind CSS v4, Vitest.
 * **Architectural Highlights:**
-  * **Strict 100dvh UX:** Custom horizontal slide-rail navigation built to prevent vertical layout shifts or unwanted page scrolling across all viewports.
-  * **Client-Side Pricing Engine:** Deterministic calculation reducer fully verified with 30+ unit tests.
-  * **Bundle Optimization:** Strictly optimized JS payload (<75 kB gzip total) utilizing Astro’s React Island architecture and lazy-loaded validation modules.
-  * **State & Analytics Resilience:** SessionStorage-backed state reducer with URL hash sync, GCLID tracking preservation, and client/server validation handlers.
+  * **Strict 100dvh UX:** Custom horizontal slide-rail navigation engineered to eliminate vertical layout shifts and scroll hijacking.
+  * **Client-Side Pricing Engine:** Deterministic calculation reducer verified by 30+ unit tests.
+  * **Bundle Optimization:** Sub-75 kB gzipped JS bundle budget utilizing Astro React Islands and lazy-loaded validation handlers.
+  * **State & Tracking Resilience:** SessionStorage-backed state reducer with URL hash synchronization and dynamic parameter preservation (GCLID tracking).
+
+---
+
+### 🔐 Corporate Intranet & Password Vault
+An internal web platform developed for a medium-sized enterprise, consolidating internal document management and credential security.
+
+* **Tech Stack:** Node.js, TypeScript, React, PostgreSQL, Docker.
+* **Key Features:**
+  * Self-hosted, role-based password manager (RBAC) ensuring strict permission scoping across corporate departments.
+  * Encrypted internal document storage and central knowledge repository.
+  * Containerized deployment architecture built for compliance and local hosting.
+
+---
+
+### ⚡ Energy Sector Advisory & Live Price App
+A specialized mobile point-of-sale application used during customer consultations to fetch real-time utility pricing data.
+
+* **Tech Stack:** Flutter, Dart, REST APIs, WebSockets.
+* **Key Features:**
+  * Real-time API integration fetching dynamic electricity and gas tariffs during active contract consultations.
+  * Offline-capable fallback calculation engine for seamless performance during field operations.
+  * Streamlined contract generation UI designed for high conversion in direct sales environments.
 
 ---
 
@@ -62,11 +84,21 @@ A privacy-first web application designed to automate visual content asset creati
 
 ---
 
+### 📊 GDPR-Compliant Lead Generator & Audit Engine
+A high-performance lead acquisition tool and automated performance audit system engineered for sales organizations.
+
+* **Tech Stack:** TypeScript, Node.js, Tailored Lead Reducer, PostgreSQL.
+* **Key Features:**
+  * Strictly compliant lead intake pipeline with custom validation handlers.
+  * Automated scoring and audit generation engine delivering instant evaluations to prospective clients.
+
+---
+
 ### 🥷 WerbeNinja – High-Performance Web Platform
 An agency website built for extreme speed, search engine optimization, and maximal lead conversion.
 
 * **Tech Stack:** HTML5, CSS3, JavaScript, PHP, Bootstrap 5, Apache.
-* **Performance Metrics:**
+* **Performance Benchmarks:**
   * **Google PageSpeed Score: 95+** (Mobile & Desktop).
   * **PWA Architecture:** Service-worker caching providing offline availability and instant page loads.
   * **Critical Rendering Path:** Inline critical CSS optimization for minimal First Contentful Paint (FCP).
@@ -99,8 +131,10 @@ Customized e-commerce platform built through deep architectural modifications of
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### **E-Commerce & Platforms**
