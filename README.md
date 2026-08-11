@@ -1,4 +1,4 @@
-# Soufian El Makhfi | Software Engineer & Fullstack Developer 👋
+# Soufian El Makhfi | Fullstack Developer 👋
 
 > *"Combining clean system architecture with purposeful AI integration turns complex enterprise workflows into high-performance, scalable digital products."*
 
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me & Core Competencies
 
-As a Fullstack & Mobile Engineer, I architect performant web, mobile, and enterprise applications with a strong focus on **clean software design**, **robust security**, **intuitive UX**, and **strategic AI integration**. My mission is to solve real-world operational challenges through scalable infrastructure and modern, responsive software.
+As a Fullstack Engineer, I build performant web and mobile applications with a strong focus on **clean software design**, **robust security**, **intuitive UX**, and **strategic AI integration**. My mission is to solve real-world operational challenges through scalable infrastructure and modern, responsive software.
 
 - 📱 **Mobile Engineering:** Cross-platform mobile applications built with Flutter & Dart (real-time data sync, live geolocation, offline-first architectures).
 - 💻 **Frontend & Web Systems:** High-performance web applications using Astro 5, React 19, TypeScript & Tailwind CSS.
