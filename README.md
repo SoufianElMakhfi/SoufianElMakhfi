@@ -146,4 +146,4 @@ Customized e-commerce platform built through deep architectural modifications of
 
 * 💼 **LinkedIn:** [Soufian El Makhfi](https://www.linkedin.com/in/soufian-el-makhfi-ab235a283/)
 * 🌍 **Portfolio:** [soufian.me](https://soufian.me/)
-* 📧 **Email:** [contact@soufian.me](mailto:contact@soufian.me)
+* 📧 **Email:** [soufian.elmakhfi@gmail.com](mailto:soufian.elmakhfi@gmail.com)
