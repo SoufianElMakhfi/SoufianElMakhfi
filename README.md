@@ -1,149 +1,88 @@
-# Soufian El Makhfi | Fullstack Developer 👋
+### Hi there, I'm Soufian El Makhfi 👋
 
-> *"Combining clean system architecture with purposeful AI integration turns complex enterprise workflows into high-performance, scalable digital products."*
-
----
-
-## 🚀 About Me & Core Competencies
-
-As a Fullstack Engineer, I build performant web and mobile applications with a strong focus on **clean software design**, **robust security**, **intuitive UX**, and **strategic AI integration**. My mission is to solve real-world operational challenges through scalable infrastructure and modern, responsive software.
-
-- 📱 **Mobile Engineering:** Cross-platform mobile applications built with Flutter & Dart (real-time data sync, live geolocation, offline-first architectures).
-- 💻 **Frontend & Web Systems:** High-performance web applications using Astro 5, React 19, TypeScript & Tailwind CSS.
-- ⚙️ **Backend & Cloud Infrastructure:** Serverless architectures, containerized microservices (Node.js, Python, Docker), real-time databases, and secure auth systems (Supabase, PostgreSQL, Firebase).
-- 🤖 **AI & Automation:** Practical implementation of state-of-the-art LLMs (e.g., Google Gemini API) to automate complex visual processing, document synthesis, and data workflows.
+**Fullstack Developer & IT Administrator**  
+*Bridging practical system architecture and modern web/mobile engineering to build scalable, high-performance digital products.*
 
 ---
 
-## 🛠️ Featured Projects & Portfolio
+### 💻 About Me
 
-### 📱 HelpMe – Digital Service & Damage Assessment Platform
-A cross-platform mobile application designed to digitize and streamline the end-to-end process from damage reporting to trade service allocation.
-
-* **Tech Stack:** Flutter & Dart, Supabase (Auth, Postgres DB, Realtime Engine), Firebase FCM.
-* **AI Integration:** Multimodal visual analysis via the Google Gemini API for automated damage reporting and claim assessment from user photos.
-* **Architectural Highlights:**
-  * Role-based access control system (Clients, Helpers, Verified Contractors).
-  * Low-latency real-time chat with live geolocation tracking and dynamic ETA calculation.
-  * Comprehensive administrative management dashboard for content moderation and operational oversight.
-* **Business Impact:** Significantly reduces claim intake time while maintaining transparent, real-time communication across all user roles.
+I specialize in building robust web applications, cross-platform mobile apps, and custom e-commerce solutions. With a strong background in both system administration (Linux, Proxmox, Docker) and full-stack development (PHP, Node.js, React, Flutter), I focus on clean code, performance, and practical problem-solving.
 
 ---
 
-### ⚡ POPSTATE – One-Viewport Lead Funnel & Client-Side Pricing Engine
-An ultra-fast, zero-scroll interactive web platform engineered with an isolated client-side pricing calculator engine.
+### 🛍️ Live E-Commerce & Production Systems
 
-* **Tech Stack:** Astro 5, React 19 (Islands Architecture), TypeScript, Tailwind CSS v4, Vitest.
-* **Architectural Highlights:**
-  * **Strict 100dvh UX:** Custom horizontal slide-rail navigation engineered to eliminate vertical layout shifts and scroll hijacking.
-  * **Client-Side Pricing Engine:** Deterministic calculation reducer verified by 30+ unit tests.
-  * **Bundle Optimization:** Sub-75 kB gzipped JS bundle budget utilizing Astro React Islands and lazy-loaded validation handlers.
-  * **State & Tracking Resilience:** SessionStorage-backed state reducer with URL hash synchronization and dynamic parameter preservation (GCLID tracking).
+* **[Haustechnikfachmann.de](https://www.haustechnikfachmann.de)**
+  * **System:** PHP / modified eCommerce.
+  * **Focus:** Ongoing technical maintenance, backend optimization, server architecture, and complete setup/management of the entire Google Marketing & Analytics Universe (Google Ads, GA4, GTM, Merchant Center).
 
----
+* **[Ersatzteilfachmann.de](https://www.ersatzteilfachmann.de)**
+  * **System:** PHP / modified eCommerce.
+  * **Focus:** Platform maintenance, database management, performance tuning, and preparation for an upcoming modern redesign.
 
-### 🔐 Corporate Intranet & Password Vault
-An internal web platform developed for a medium-sized enterprise, consolidating internal document management and credential security.
-
-* **Tech Stack:** Node.js, TypeScript, React, PostgreSQL, Docker.
-* **Key Features:**
-  * Self-hosted, role-based password manager (RBAC) ensuring strict permission scoping across corporate departments.
-  * Encrypted internal document storage and central knowledge repository.
-  * Containerized deployment architecture built for compliance and local hosting.
+* **[Amana-Shop.de](https://www.amana-shop.de)**
+  * **System:** Shopify.
+  * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
 
 ---
 
-### ⚡ Energy Sector Advisory & Live Price App
-A specialized mobile point-of-sale application used during customer consultations to fetch real-time utility pricing data.
+### 🛠️ Featured Software & App Concepts
 
-* **Tech Stack:** Flutter, Dart, REST APIs, WebSockets.
-* **Key Features:**
-  * Real-time API integration fetching dynamic electricity and gas tariffs during active contract consultations.
-  * Offline-capable fallback calculation engine for seamless performance during field operations.
-  * Streamlined contract generation UI designed for high conversion in direct sales environments.
+> *Note: Many custom applications and middleware projects (like ERP-to-Shopify/Shop integrations) are proprietary or internal client solutions.*
 
----
+* **📱 HelpMe (Damage Assessment Platform)**
+  * **What it is:** A cross-platform mobile application to digitize damage reporting and streamline service allocation.
+  * **Tech Stack:** Flutter & Dart, Supabase (Auth, Postgres, Realtime), Firebase FCM.
+  * **Highlights:** Role-based access control (RBAC), real-time chat with live geolocation, and experimental multimodal AI integration for automated image-based damage analysis.
 
-### 📄 SmartResume – AI-Powered Document Synthesis Engine
-An autonomous document generation system tailored to synthesize personalized job application packages matching specific position requirements.
+* **⚡ POPSTATE (Interactive Lead Funnel)**
+  * **What it is:** A high-performance web platform built with an isolated client-side pricing calculation engine.
+  * **Tech Stack:** Astro, React, TypeScript, Tailwind CSS, Vitest.
+  * **Highlights:** Strict mobile-first UX, robust unit-tested pricing logic, and strict bundle size optimization for sub-second load times.
 
-* **Concept:** Dynamically generates tailored application suites (Cover Letter, CV, Portfolio Cover) aligned with candidate profiles and custom writing styles.
-* **Workflow:** Automated requirement extraction from job posting URLs matched against candidate skill repositories.
-* **Result:** Generates complete, error-free application packages in seconds, boosting application quality and efficiency.
-
----
-
-### 🖼️ ThumbMe – Automated AI Asset Generator
-A privacy-first web application designed to automate visual content asset creation for digital creators.
-
-* **Tech Stack:** React (Vite), TypeScript, Tailwind CSS, Supabase, Google Gemini Flash API.
-* **Key Features:**
-  * Modular style engine with preset design profiles (e.g., Cinematic, Minimalistic, Gaming).
-  * Performant drag-and-drop file pipeline featuring client-side canvas compression prior to API transmission.
-  * GDPR-compliant data lifecycle management with automated storage purge functions.
+* **🔐 Corporate Intranet & Password Vault**
+  * **What it is:** An internal platform consolidating document management and secure credential handling for mid-sized operations.
+  * **Tech Stack:** Node.js, TypeScript, React, PostgreSQL, Docker.
+  * **Highlights:** Self-hosted RBAC password manager and encrypted internal knowledge base containerized for local compliance.
 
 ---
 
-### 📊 GDPR-Compliant Lead Generator & Audit Engine
-A high-performance lead acquisition tool and automated performance audit system engineered for sales organizations.
+### 💻 Tech Stack & Ecosystem
 
-* **Tech Stack:** TypeScript, Node.js, Tailored Lead Reducer, PostgreSQL.
-* **Key Features:**
-  * Strictly compliant lead intake pipeline with custom validation handlers.
-  * Automated scoring and audit generation engine delivering instant evaluations to prospective clients.
+<p align="left">
+  <!-- Frontend & Mobile -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <br>
+  <!-- Backend, Cloud & Testing -->
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shops.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 
----
-
-### 🥷 WerbeNinja – High-Performance Web Platform
-An agency website built for extreme speed, search engine optimization, and maximal lead conversion.
-
-* **Tech Stack:** HTML5, CSS3, JavaScript, PHP, Bootstrap 5, Apache.
-* **Performance Benchmarks:**
-  * **Google PageSpeed Score: 95+** (Mobile & Desktop).
-  * **PWA Architecture:** Service-worker caching providing offline availability and instant page loads.
-  * **Critical Rendering Path:** Inline critical CSS optimization for minimal First Contentful Paint (FCP).
-
----
-
-### 🛍️ Amana Shop – Enterprise E-Commerce Optimization
-Customized e-commerce platform built through deep architectural modifications of Shopify's Dawn theme engine.
-
-* **Tech Stack:** Shopify, Liquid, Custom JavaScript, Modern CSS.
-* **Highlights:** Mobile-first navigation system, asset-loading optimizations, and minimized rendering overhead despite high-resolution product media.
-
----
-
-## 💻 Tech Stack & Ecosystem
-
-### **Frontend & Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend, Cloud & Testing**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### **E-Commerce & Platforms**
-![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+  <br>
+  <!-- E-Commerce & Platforms -->
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+</p>
 
 ---
 
-## 📬 Connect With Me
+### 📬 Connect With Me
 
-* 💼 **LinkedIn:** [Soufian El Makhfi](https://www.linkedin.com/in/soufian-el-makhfi-ab235a283/)
-* 🌍 **Portfolio:** [soufian.me](https://soufian.me/)
-* 📧 **Email:** [soufian.elmakhfi@gmail.com](mailto:soufian.elmakhfi@gmail.com)
+* 💼 **LinkedIn:** [Soufian El Makhfi](https://www.linkedin.com/)
+* 🌍 **Portfolio:** [soufian.me](https://soufian.me)
+* 📧 **Email:** soufian.elmakhfi@gmail.com
