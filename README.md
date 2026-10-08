@@ -29,17 +29,17 @@ I specialize in building robust web applications, cross-platform mobile apps, an
 
 ### 🛠️ Featured Software & App Concepts
 
-> *Note: Many custom applications and middleware projects (like ERP-to-Shopify/Shop integrations) are proprietary or internal client solutions.*
+> *Note: Many custom applications and middleware projects (like ERP-to-Shop/Shopify integrations) are proprietary or internal client solutions.*
+
+* **⚡ Energy Sector Advisory & Live Price App**
+  * **What it is:** A specialized mobile point-of-sale application used during customer consultations to fetch real-time utility pricing data and handle direct sales.
+  * **Tech Stack:** Flutter, Dart, REST APIs, WebSockets.
+  * **Highlights:** Real-time API integration fetching dynamic electricity and gas tariffs during active contract consultations, offline-capable fallback calculation engine, and streamlined contract generation UI.
 
 * **📱 HelpMe (Damage Assessment Platform)**
   * **What it is:** A cross-platform mobile application to digitize damage reporting and streamline service allocation.
   * **Tech Stack:** Flutter & Dart, Supabase (Auth, Postgres, Realtime), Firebase FCM.
   * **Highlights:** Role-based access control (RBAC), real-time chat with live geolocation, and experimental multimodal AI integration for automated image-based damage analysis.
-
-* **⚡ POPSTATE (Interactive Lead Funnel)**
-  * **What it is:** A high-performance web platform built with an isolated client-side pricing calculation engine.
-  * **Tech Stack:** Astro, React, TypeScript, Tailwind CSS, Vitest.
-  * **Highlights:** Strict mobile-first UX, robust unit-tested pricing logic, and strict bundle size optimization for sub-second load times.
 
 * **🔐 Corporate Intranet & Password Vault**
   * **What it is:** An internal platform consolidating document management and secure credential handling for mid-sized operations.
@@ -68,21 +68,4 @@ I specialize in building robust web applications, cross-platform mobile apps, an
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shops.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-
-  <br>
-  <!-- E-Commerce & Platforms -->
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
-
----
-
-### 📬 Connect With Me
-
-* 💼 **LinkedIn:** [Soufian El Makhfi](https://www.linkedin.com/)
-* 🌍 **Portfolio:** [soufian.me](https://soufian.me)
-* 📧 **Email:** soufian.elmakhfi@gmail.com
+  <img src="
