@@ -13,6 +13,10 @@ I specialize in building robust web applications, cross-platform mobile apps, an
 
 ### 🛍️ Live E-Commerce & Production Systems
 
+* **[Amana-Shop.de](https://www.amana-shop.de)**
+  * **System:** Shopify.
+  * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
+
 * **[Haustechnikfachmann.de](https://www.haustechnikfachmann.de)**
   * **System:** PHP / modified eCommerce.
   * **Focus:** Ongoing technical maintenance, backend optimization, server architecture, and complete setup/management of the entire Google Marketing & Analytics Universe (Google Ads, GA4, GTM, Merchant Center).
@@ -21,9 +25,6 @@ I specialize in building robust web applications, cross-platform mobile apps, an
   * **System:** PHP / modified eCommerce.
   * **Focus:** Platform maintenance, database management, performance tuning, and preparation for an upcoming modern redesign.
 
-* **[Amana-Shop.de](https://www.amana-shop.de)**
-  * **System:** Shopify.
-  * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
 
 ---
 
