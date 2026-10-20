@@ -13,17 +13,21 @@ I specialize in building robust web applications, cross-platform mobile apps, an
 
 ### 🛍️ Live E-Commerce & Production Systems
 
-* **[Amana-Shop.de](https://www.amana-shop.de)**
-  * **System:** Shopify.
-  * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
-
 * **[Haustechnikfachmann.de](https://www.haustechnikfachmann.de)**
   * **System:** PHP / modified eCommerce.
   * **Focus:** Ongoing technical maintenance, backend optimization, server architecture, and complete setup/management of the entire Google Marketing & Analytics Universe (Google Ads, GA4, GTM, Merchant Center).
 
+* **[Amana-Shop.de](https://www.amana-shop.de)**
+  * **System:** Shopify.
+  * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
+
+  * **[Pulliclaus.de](https://www.pulliclaus.de)**
+  * **System:** Shopify.
+  * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
+
 * **[Ersatzteilfachmann.de](https://www.ersatzteilfachmann.de)**
   * **System:** PHP / modified eCommerce.
-  * **Focus:** Platform maintenance, database management, performance tuning, and preparation for an upcoming modern redesign.
+  * **Focus:** Preparation for an upcoming modern redesign, platform maintenance, database management, performance tuning.
 
 
 ---
@@ -53,8 +57,6 @@ I specialize in building robust web applications, cross-platform mobile apps, an
 
 <p align="left">
   <!-- Frontend & Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
