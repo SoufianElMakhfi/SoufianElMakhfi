@@ -21,7 +21,7 @@ I specialize in building robust web applications, cross-platform mobile apps, an
   * **System:** Shopify.
   * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
 
-  * **[Pulliclaus.de](https://www.pulliclaus.de)**
+* **[Pulliclaus.de](https://www.pulliclaus.de)**
   * **System:** Shopify.
   * **Focus:** Custom template design, liquid modifications, conversion rate optimization (CRO), and seamless operational workflows.
 
